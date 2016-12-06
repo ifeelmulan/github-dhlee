@@ -12,3 +12,5 @@
 #iampeterkr - 마지막줄 수정 후 커밋 & 푸쉬  : 후임 마지막줄 수정: +이동호수정
 
 #그냥수정(이동호) ---- 재수정(브랜치생성예상됨)
+#iampeterkr - pull 안땡기고, 수정하고, 커밋 -> push -> error -> pull (branch 생겼고) -> 수정 -> commit/push
+#그냥수정(이동호) - 최종수정
